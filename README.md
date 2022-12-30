@@ -4,10 +4,9 @@
 
 - 🔭 I’m currently working on back-end with Databases Analysis (freelancer)
 - 🌱 I’m currently learning Machine Learning to Data Science
-- 💬 Tell me what makes you travel mentally, and we'll talk about for hours 🍃 
+- 💬 Ask me about technology, data science, AI ethics, career and etc - I'll be happy to help :) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: What's worse than being struck by lightning?
-Answer: be reached by the diameter, which is twice the size 😂
+- ⚡ Fun fact: I love watching sci-fi and adventure movies
 - 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/francisco-silva-429823143)
@@ -18,10 +17,15 @@ Answer: be reached by the diameter, which is twice the size 😂
 ![Francisco Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=ninowwwup&show_icons=true&theme=dracula)
 </div>
 
+<summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br/>
+
+> Tell me what makes you travel mentally, and we'll talk about for hours 🍃
 
 ![Snake animation](https://github.com/ninowwwup/ninowwwup/blob/output/github-contribution-grid-snake.svg)
