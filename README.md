@@ -7,7 +7,7 @@
 - 💬 Tell me what makes you travel mentally, and we'll talk about for hours 🍃 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: What's worse than being struck by lightning?
-Answer: be reached by the diameter, which is twice the size 😂😂😂
+Answer: be reached by the diameter, which is twice the size 😂
 - 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/francisco-silva-429823143)
