@@ -17,7 +17,7 @@
 ![Francisco Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=ninowwwup&show_icons=true&theme=dracula)
 </div>
 
-<summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
+<summary><b>🛠️ Some languages and tools I use:</b></summary>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
