@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on back-end with Databases Analysis (freelancer)
 - 🌱 I’m currently learning Machine Learning to Data Science
-- 💬 Ask me about technology, data science, AI ethics, and talk about how the world works - I'll be happy to help, it'll be fun 😉
+- 💬 Ask me about technology, data science, AI ethics, and talking about how the world works - I'll be happy to help, it'll be fun 😉
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love watching sci-fi and adventure movies
 - 📫 How to reach me: 
