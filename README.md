@@ -1,6 +1,6 @@
 ### Hi there I'm Francisco Silva👋
 
-> Quite resume about me ☺️:
+> Some fun facts about me ☺️:
 
 - 🔭 I’m currently working on back-end with Databases Analysis (freelancer)
 - 🌱 I’m currently learning Machine Learning to Data Science
