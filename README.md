@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1cc8d8&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1cc8d8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Francisco+Silva;I'm+24+years+old;I'm+from+Brazil;I'm+graduating+Data+Science+Fullstack;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 ### Hi there I'm Francisco Silva👋
 
 > Some fun facts about me ☺️:
@@ -9,13 +14,18 @@
 - ⚡ Fun fact: I love watching sci-fi and adventure movies
 - 📫 How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/francisco-silva-429823143)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](franciscodelimasilva110@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fran._ls/)
-[![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5511963571575)
-
-![Francisco Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=ninowwwup&show_icons=true&theme=dracula)
+<div align="center"> 
+<a href="https://www.instagram.com/fran._ls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.franciscodelimasilva110@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/francisco-silva-429823143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+<br/>
+  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ninowwwup&show_icons=true&count_private=true&hide_border=true&title_color=1cc8d8&icon_color=1cc8d8&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ninowwwup&bg_color=000000&color=f5f6fa&line=04f9d3&point=18fb86&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <summary><b>🛠️ Some programing languages and tools I use:</b></summary>
 
@@ -29,3 +39,11 @@
 > Tell me what makes you travel mentally, and we'll talk about for hours 🍃
 
 ![Snake animation](https://github.com/ninowwwup/ninowwwup/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+<br><p align="centre"><b>Profile views</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ninowwwup}/count.svg" /></p> 
+<br>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1cc8d8&height=120&section=footer"/>
